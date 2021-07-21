@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Output build_failed="false" build_had_errors="false">
+  <Compile base="C:\Sample Applications\AltoroJ_ant\"
+    dest="C:\Sample Applications\AltoroJ_ant\AltoroJ_Ant_staging" source_dir="C:\Sample Applications\AltoroJ_ant\src\">
+    <File
+      name="com\ibm\security\appscan\altoromutual\model\Account.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\model\Account.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\servlet\FeedbackServlet.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\servlet\FeedbackServlet.class"/>
+    </File>
+    <File name="com\ibm\security\appscan\altoromutual\util\DBUtil.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\util\DBUtil.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\servlet\TransferServlet.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\servlet\TransferServlet.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\filter\AdminFilter.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\filter\AdminFilter.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\model\Transaction.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\model\Transaction.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\servlet\SubscribeServlet.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\servlet\SubscribeServlet.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\servlet\AccountViewServlet.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\servlet\AccountViewServlet.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\servlet\CCApplyServlet.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\servlet\CCApplyServlet.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\servlet\SurveyServlet.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\servlet\SurveyServlet.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\filter\AuthFilter.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\filter\AuthFilter.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\util\ServletUtil.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\util\ServletUtil.class"/>
+    </File>
+    <File name="com\ibm\security\appscan\altoromutual\model\User.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\model\User$Role.class"/>
+      <Class name="com\ibm\security\appscan\altoromutual\model\User.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\servlet\RedirectServlet.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\servlet\RedirectServlet.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\servlet\AdminLoginServlet.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\servlet\AdminLoginServlet.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\servlet\LoginServlet.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\servlet\LoginServlet.class"/>
+    </File>
+    <File
+      name="com\ibm\security\appscan\altoromutual\servlet\AdminServlet.java" source_dir="C:\Sample Applications\AltoroJ_ant\src">
+      <Class name="com\ibm\security\appscan\altoromutual\servlet\AdminServlet.class"/>
+    </File>
+  </Compile>
+</Output>

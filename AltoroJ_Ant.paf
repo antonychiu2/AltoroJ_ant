@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application name="AltoroJ_Ant" version="10.0.5">
+	<Project language_type="2" path="./AltoroJ_Ant.ppf"/>
+	<Projects>
+		<Project ltd_name="java" path=".\AltoroJ_Ant.ppf"/>
+	</Projects>
+	<FindingModifications exclusion="false" version="8.0.0">
+	</FindingModifications>
+	<Findings exclusion="false" version="8.0.0">
+	</Findings>
+</Application>

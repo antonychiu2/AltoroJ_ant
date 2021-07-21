@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project default_configuration_name="Configuration 1" language_type="2" ltd_name="java" name="AltoroJ_Ant" version="10.0.5" web_context_root_path="WebContent">
+	<Configuration class_path=";..\apache-tomcat-6.0.35\lib\annotations-api.jar;..\apache-tomcat-6.0.35\lib\catalina-ant.jar;..\apache-tomcat-6.0.35\lib\catalina-ha.jar;..\apache-tomcat-6.0.35\lib\catalina-tribes.jar;..\apache-tomcat-6.0.35\lib\catalina.jar;..\apache-tomcat-6.0.35\lib\ecj-3.7.jar;..\apache-tomcat-6.0.35\lib\el-api.jar;..\apache-tomcat-6.0.35\lib\jasper-el.jar;..\apache-tomcat-6.0.35\lib\jasper.jar;..\apache-tomcat-6.0.35\lib\jsp-api.jar;..\apache-tomcat-6.0.35\lib\servlet-api.jar;..\apache-tomcat-6.0.35\lib\tomcat-coyote.jar;..\apache-tomcat-6.0.35\lib\tomcat-dbcp.jar;..\apache-tomcat-6.0.35\lib\tomcat-i18n-es.jar;..\apache-tomcat-6.0.35\lib\tomcat-i18n-fr.jar;..\apache-tomcat-6.0.35\lib\tomcat-i18n-ja.jar;WebContent\WEB-INF\lib\Log4AltoroJ.jar;WebContent\WEB-INF\lib\commons-codec-1.6.jar;WebContent\WEB-INF\lib\commons-lang-2.5.jar;WebContent\WEB-INF\lib\derby.jar;WebContent\WEB-INF\lib\log4j-1.2.16.jar" name="Configuration 1"/>
+	<Source exclude="false" path="./WebContent" web="true"/>
+	<Source exclude="false" path="./src" web="false"/>
+	<ProjectScanSettings/>
+</Project>

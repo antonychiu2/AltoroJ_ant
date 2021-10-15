@@ -23,7 +23,6 @@ steps:
 
 - script: |
 
-    appscansrccli src cli_script.txt
-    
+    appscansrccli scr cli_script.txt
 
   displayName: 'AppScan Source Step'

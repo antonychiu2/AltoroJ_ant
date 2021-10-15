@@ -32,7 +32,6 @@ steps:
   displayName: 'Check current directory after'
 
 - download: current
-  artifact: 
   patterns: |
     **/*.pdf
     **/*.html

@@ -24,7 +24,7 @@ steps:
     dir
   displayName: 'Check current directory after'
 
-- download: current
-  patterns: |
-    **/*.pdf
-    **/*.html
+- task: PublishPipelineArtifact@1
+  inputs:
+    targetPath: '$(Pipeline.Workspace)/report_FP.pdf'
+    publishLocation: 'pipeline'

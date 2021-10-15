@@ -26,5 +26,5 @@ steps:
 
 - task: PublishPipelineArtifact@1
   inputs:
-    targetPath: '$(Pipeline.Workspace)/report_FP.pdf'
+    targetPath: '$(Pipeline.Workspace)/s/report_FP.pdf'
     publishLocation: 'pipeline'

@@ -26,3 +26,7 @@ steps:
     appscansrccli scr cli_script.txt
 
   displayName: 'AppScan Source Step'
+
+- script: |
+    dir
+  displayName: 'Check current directory after'

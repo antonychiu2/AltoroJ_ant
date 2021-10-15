@@ -18,5 +18,12 @@ steps:
   displayName: 'Run a multi-line script'
 
 - script: |
+    dir
+  displayName: 'Check current directory'
+
+- script: |
+
     appscansrccli
+    login
+
   displayName: 'AppScan Source Step'
